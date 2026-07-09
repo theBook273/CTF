@@ -11,7 +11,7 @@ signed main() {
 
   for (int i = 0; i < s.size(); i++) {
     translator[s[i]] = res[i];
-  }
+  
 
   getline(cin, decode, '|');
 
