@@ -1,0 +1,55 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "pico-bank.apk"
+  ],
+  "treeExpansionsV2": [
+    "p:com.example.picobank",
+    "t:JResources//res",
+    "t:JInputs"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.example.picobank.OTP",
+      "subPath": "java",
+      "caret": 5044,
+      "view": {
+        "x": 0,
+        "y": 1915
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "sub-resource",
+      "tabPath": "resources.arsc:/res/values/strings.xml",
+      "subPath": "",
+      "caret": 14110,
+      "view": {
+        "x": 0,
+        "y": 3548
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/votansach/.cache/jadx/projects/pico-bank-12cd0c2f9e78215a343fc5328b82df08",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "otp_value"
+  ],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}

@@ -1,0 +1,71 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "minions.apk"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//res//xml",
+    "p:com"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.example.picoctfimage.R",
+      "subPath": "java",
+      "caret": 427891,
+      "view": {
+        "x": 6,
+        "y": 329475
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "sub-resource",
+      "tabPath": "resources.arsc:/res/values/strings.xml",
+      "subPath": "",
+      "caret": 69,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/layout/activity_main.xml",
+      "subPath": "",
+      "caret": 1277,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/home/votansach/.cache/jadx/projects/minions-333bb656cf95c36ae62f275a8436dcfa",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "banana",
+    "bana",
+    "flag"
+  ],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
